@@ -157,6 +157,6 @@ No known bugs at this time.
 Faith Nyaberi [Github](https://github.com/Obony)
 
 Abiollagh James [Github](https://github.com/AbiollaghJames)
-g
+
 ## License
 Public Domain. No copy write protection. 
