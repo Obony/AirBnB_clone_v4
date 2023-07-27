@@ -155,7 +155,9 @@ No known bugs at this time.
 
 ## Authors
 Faith Nyaberi [Github](https://github.com/Obony)
-Abiollagh James [Github](https://github.com/AbiollaghJames))
+
+Abiollagh James [Github](https://github.com/AbiollaghJames)
+
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
