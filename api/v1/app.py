@@ -9,7 +9,7 @@ from api.v1.views import app_views
 app = Flask(__name__)
 
 #register the blueprint app_views to Flask instance app
-app.register_blueprint(app+views)
+app.register_blueprint(app_views)
 
 #tear down
 @app.teardown_appcontext
